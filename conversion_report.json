@@ -1,0 +1,99 @@
+{
+  "domain": "kezban.co.uk",
+  "total_files_processed": 1,
+  "total_url_mappings": 1,
+  "broken_links": [
+    [
+      "index.html",
+      "/blog/technology-growth-and-income-inequality"
+    ],
+    [
+      "index.html",
+      "/blog/kezban-and-media-carrier-announce-partnership-to-p"
+    ],
+    [
+      "index.html",
+      "/blog/amnet-and-kezban-technology-partnership"
+    ],
+    [
+      "index.html",
+      "/blog/"
+    ],
+    [
+      "index.html",
+      "images/kezban-logo.png"
+    ],
+    [
+      "index.html",
+      "images/Amnet-300x295.png"
+    ],
+    [
+      "index.html",
+      "images/bioone-300x295.png"
+    ],
+    [
+      "index.html",
+      "images/codebase-300x295.png"
+    ],
+    [
+      "index.html",
+      "images/ingram-300x295.png"
+    ],
+    [
+      "index.html",
+      "images/stelae-300x295.png"
+    ],
+    [
+      "index.html",
+      "images/yl-consulting-1.png"
+    ],
+    [
+      "index.html",
+      "images/torbaycharts.png"
+    ],
+    [
+      "index.html",
+      "images/Alma-Books-300x295.jpg"
+    ],
+    [
+      "index.html",
+      "images/Bloomsbury-300x295.jpg"
+    ],
+    [
+      "index.html",
+      "images/CanonGate-300x295.jpg"
+    ],
+    [
+      "index.html",
+      "images/gword-300x295.png"
+    ],
+    [
+      "index.html",
+      "images/Mercier-Press-300x295.jpg"
+    ],
+    [
+      "index.html",
+      "images/Random-House-300x295.jpg"
+    ],
+    [
+      "index.html",
+      "images/TechnologyGrowthandIncomeInequality-768x447-1.jpg"
+    ],
+    [
+      "index.html",
+      "images/kezban_about-1.jpg"
+    ],
+    [
+      "index.html",
+      "images/y7.jpg"
+    ],
+    [
+      "index.html",
+      "public/assets/favicon.png"
+    ]
+  ],
+  "external_links": [],
+  "url_to_file_mapping": {
+    "/": "index.html"
+  }
+}
